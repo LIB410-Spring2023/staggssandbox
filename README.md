@@ -30,7 +30,3 @@ There will be a minimum of 20 interviews in this digital collection. The intervi
 
 *Data quantity:* As of spring 2023, there are 20 interviews. These interviews are clips from longer ones. It is important to note that the collection will grow as more interviews are added. This means for every interview in the collection, data managers need also count the transcription and translation. So, if there are 20 interview clips then there are 20 transcriptions and 20 translations, which makes the collection contact 60 files. 
 Here is a breakdown of collection size, work type, file format, total number of assets, average file size, and average total size for a set of file types.
-
-
-
-
